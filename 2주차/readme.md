@@ -2,14 +2,17 @@
 
 기본적인 pip 기능 구현
 
-![image](https://github.com/user-attachments/assets/eb0d1ba9-f841-4f8a-8633-31af026ac2a1)
-
-1. 사용자의 화면 설정에 따른 모니터 선택가능
-2. 영역선택으로 pip기능 구현
-
-![image](https://github.com/user-attachments/assets/a668e04a-7e74-4421-af83-857d24b8d872)
+![image](https://github.com/user-attachments/assets/8ec21c43-9c73-4437-bb0f-558decfb9fe7)
 
 
-![image](https://github.com/user-attachments/assets/39f7d977-1b9c-4894-bebb-86f6f4831dcf)
+1. 기존 화면을 캡쳐하여 화면 지정가능, 엔터로 pip창 생성
 
-3. pip 창 투명도 조절 가능 
+   
+![image](https://github.com/user-attachments/assets/c010eaa2-e431-4606-a4a1-05766e40c4c3)
+
+![image](https://github.com/user-attachments/assets/529e1ce4-2fd5-4935-bffc-9a4f2797fe81)
+
+
+3. pip 창 투명도 조절 가능
+   
+![image](https://github.com/user-attachments/assets/0488509a-cab0-48a0-a767-e9324e9955b7)
